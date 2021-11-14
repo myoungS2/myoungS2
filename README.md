@@ -24,9 +24,10 @@
   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mythe1004@gmail.com" />&nbsp
   <img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=www.youtube.com/channel/UCeaWieodaV7hYrlo60uU0fw" />
 </p>  
-    
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myoungS2&show_icons=true&theme=radical)
-
+<br><br>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=myoungS2&show_icons=true&theme=radical"/>
+</p> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=6C7BC3&height=300&section=footer&text=%20&fontSize=90" />
 </p>
