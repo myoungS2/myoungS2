@@ -2,8 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=slice&color=F66D76&height=300&section=header&text=Hello%20world!&fontSize=90"> 
 </p>
 
-<h1 align="center"> :sparkles: I'm  Mee Young Sim :sparkles: </h1>
-<h3 align="center"> :eyeglasses: who have cool head warm heart :heart: </h3>
+<h1 align="center"> :sparkles: I'm  Mee Young Sim :sparkles: <br/>
+ :eyeglasses: who have cool head warm heart :heart: </h1>
 
 <br><br>
 <h3 align="center"> :books: stack :books: </h4>
