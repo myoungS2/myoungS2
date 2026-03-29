@@ -30,25 +30,34 @@
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>&nbsp
 </p>
 
+<h4 align="center">🖥️ OS</h4>
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Windows NT-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>&nbsp
+</p>
+
 <h4 align="center">🛠️ ETC</h4>
 <p align="center"> 
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>&nbsp
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Subversion-809CC9?style=for-the-badge&logo=subversion&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white"/>&nbsp
 </p>
-<!-- <br><br> -->
-<!-- <h3 align="center">:envelope: Contact :envelope: </h3>  -->
-<!-- <p align="center">
+
+<!-- <br><br>
+<h3 align="center">:envelope: Contact :envelope: </h3> 
+<p align="center">
   <a href="https://linktr.ee/myoung.e?utm_source=linktree_profile_share&ltsid=83e9bd85-8e15-4df5-9570-16f51f6d8a1d">
   <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" />&nbsp
   </a>
-</p>   -->
+</p>  
 <br><br>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=myoungS2&show_icons=true&theme=radical"/>
+</p>  -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=6C7BC3&height=300&section=footer&text=%20&fontSize=90" />
 </p>
